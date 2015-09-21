@@ -3,8 +3,10 @@
  */
 public class Main {
     public static void main(String[] args) {
-       int x =39*56;
         System.out.println("Hiya there.");
-        System.out.println("This is Rob here."+x);
+<<<<<<< HEAD
+        System.out.println("This is Rob here.");
+=======
+>>>>>>> parent of 3a552bf... This will add an extra sentence.
     }
 }
